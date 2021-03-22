@@ -1,1 +1,1 @@
-# gobalink
+# globalink
